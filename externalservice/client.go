@@ -1,7 +1,7 @@
 package externalservice
 
 import (
-	"io"
+	//"io"
 )
 
 // Post is the data structure representing the data sent and received from the
